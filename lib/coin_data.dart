@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:http/http.dart'as http;
 
-const aPIKey='YOUR-API-KEY';
+const aPIKey='YOUR-API-KEY ';
 const url='https://rest.coinapi.io/v1/exchangerate/';
 
 class CoinData{
